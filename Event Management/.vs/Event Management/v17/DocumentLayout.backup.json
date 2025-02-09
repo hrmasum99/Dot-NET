@@ -1,0 +1,503 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\AIUB\\9th Sem\\Adv .Net\\Lab\\Event Management\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D9BBAF1D-01D9-426B-BA7B-7ED49C9BE65E}|Event Management\\Event Management.csproj|E:\\AIUB\\9th Sem\\Adv .Net\\Lab\\Event Management\\event management\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{D9BBAF1D-01D9-426B-BA7B-7ED49C9BE65E}|Event Management\\Event Management.csproj|solutionrelative:event management\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9BBAF1D-01D9-426B-BA7B-7ED49C9BE65E}|Event Management\\Event Management.csproj|e:\\aiub\\9th sem\\adv .net\\lab\\event management\\event management\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9BBAF1D-01D9-426B-BA7B-7ED49C9BE65E}|Event Management\\Event Management.csproj|solutionrelative:event management\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9BBAF1D-01D9-426B-BA7B-7ED49C9BE65E}|Event Management\\Event Management.csproj|e:\\aiub\\9th sem\\adv .net\\lab\\event management\\event management\\controllers\\rsvpcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9BBAF1D-01D9-426B-BA7B-7ED49C9BE65E}|Event Management\\Event Management.csproj|solutionrelative:event management\\controllers\\rsvpcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9BBAF1D-01D9-426B-BA7B-7ED49C9BE65E}|Event Management\\Event Management.csproj|e:\\aiub\\9th sem\\adv .net\\lab\\event management\\event management\\controllers\\eventcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9BBAF1D-01D9-426B-BA7B-7ED49C9BE65E}|Event Management\\Event Management.csproj|solutionrelative:event management\\controllers\\eventcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{005658BA-5C82-4DD1-A0EF-AAAA8394818B}|DAL\\DAL.csproj|E:\\AIUB\\9th Sem\\Adv .Net\\Lab\\Event Management\\dal\\dataaccessfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{005658BA-5C82-4DD1-A0EF-AAAA8394818B}|DAL\\DAL.csproj|solutionrelative:dal\\dataaccessfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{005658BA-5C82-4DD1-A0EF-AAAA8394818B}|DAL\\DAL.csproj|E:\\AIUB\\9th Sem\\Adv .Net\\Lab\\Event Management\\dal\\repos\\userrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{005658BA-5C82-4DD1-A0EF-AAAA8394818B}|DAL\\DAL.csproj|solutionrelative:dal\\repos\\userrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{005658BA-5C82-4DD1-A0EF-AAAA8394818B}|DAL\\DAL.csproj|E:\\AIUB\\9th Sem\\Adv .Net\\Lab\\Event Management\\dal\\repos\\rsvprepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{005658BA-5C82-4DD1-A0EF-AAAA8394818B}|DAL\\DAL.csproj|solutionrelative:dal\\repos\\rsvprepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{005658BA-5C82-4DD1-A0EF-AAAA8394818B}|DAL\\DAL.csproj|E:\\AIUB\\9th Sem\\Adv .Net\\Lab\\Event Management\\dal\\repos\\repo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{005658BA-5C82-4DD1-A0EF-AAAA8394818B}|DAL\\DAL.csproj|solutionrelative:dal\\repos\\repo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{005658BA-5C82-4DD1-A0EF-AAAA8394818B}|DAL\\DAL.csproj|E:\\AIUB\\9th Sem\\Adv .Net\\Lab\\Event Management\\dal\\repos\\eventrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{005658BA-5C82-4DD1-A0EF-AAAA8394818B}|DAL\\DAL.csproj|solutionrelative:dal\\repos\\eventrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{005658BA-5C82-4DD1-A0EF-AAAA8394818B}|DAL\\DAL.csproj|e:\\aiub\\9th sem\\adv .net\\lab\\event management\\dal\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{005658BA-5C82-4DD1-A0EF-AAAA8394818B}|DAL\\DAL.csproj|solutionrelative:dal\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{005658BA-5C82-4DD1-A0EF-AAAA8394818B}|DAL\\DAL.csproj|e:\\aiub\\9th sem\\adv .net\\lab\\event management\\dal\\migrations\\202501210715522_updatetables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{005658BA-5C82-4DD1-A0EF-AAAA8394818B}|DAL\\DAL.csproj|solutionrelative:dal\\migrations\\202501210715522_updatetables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{005658BA-5C82-4DD1-A0EF-AAAA8394818B}|DAL\\DAL.csproj|e:\\aiub\\9th sem\\adv .net\\lab\\event management\\dal\\migrations\\202501210636152_createtables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{005658BA-5C82-4DD1-A0EF-AAAA8394818B}|DAL\\DAL.csproj|solutionrelative:dal\\migrations\\202501210636152_createtables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{005658BA-5C82-4DD1-A0EF-AAAA8394818B}|DAL\\DAL.csproj|e:\\aiub\\9th sem\\adv .net\\lab\\event management\\dal\\interfaces\\irsvpfeatures.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{005658BA-5C82-4DD1-A0EF-AAAA8394818B}|DAL\\DAL.csproj|solutionrelative:dal\\interfaces\\irsvpfeatures.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{005658BA-5C82-4DD1-A0EF-AAAA8394818B}|DAL\\DAL.csproj|E:\\AIUB\\9th Sem\\Adv .Net\\Lab\\Event Management\\dal\\interfaces\\irepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{005658BA-5C82-4DD1-A0EF-AAAA8394818B}|DAL\\DAL.csproj|solutionrelative:dal\\interfaces\\irepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{005658BA-5C82-4DD1-A0EF-AAAA8394818B}|DAL\\DAL.csproj|e:\\aiub\\9th sem\\adv .net\\lab\\event management\\dal\\interfaces\\ieventfeatures.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{005658BA-5C82-4DD1-A0EF-AAAA8394818B}|DAL\\DAL.csproj|solutionrelative:dal\\interfaces\\ieventfeatures.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{005658BA-5C82-4DD1-A0EF-AAAA8394818B}|DAL\\DAL.csproj|E:\\AIUB\\9th Sem\\Adv .Net\\Lab\\Event Management\\dal\\ef\\eventmgtcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{005658BA-5C82-4DD1-A0EF-AAAA8394818B}|DAL\\DAL.csproj|solutionrelative:dal\\ef\\eventmgtcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{005658BA-5C82-4DD1-A0EF-AAAA8394818B}|DAL\\DAL.csproj|E:\\AIUB\\9th Sem\\Adv .Net\\Lab\\Event Management\\dal\\ef\\tables\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{005658BA-5C82-4DD1-A0EF-AAAA8394818B}|DAL\\DAL.csproj|solutionrelative:dal\\ef\\tables\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{005658BA-5C82-4DD1-A0EF-AAAA8394818B}|DAL\\DAL.csproj|E:\\AIUB\\9th Sem\\Adv .Net\\Lab\\Event Management\\dal\\ef\\tables\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{005658BA-5C82-4DD1-A0EF-AAAA8394818B}|DAL\\DAL.csproj|solutionrelative:dal\\ef\\tables\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{005658BA-5C82-4DD1-A0EF-AAAA8394818B}|DAL\\DAL.csproj|E:\\AIUB\\9th Sem\\Adv .Net\\Lab\\Event Management\\dal\\ef\\tables\\rsvp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{005658BA-5C82-4DD1-A0EF-AAAA8394818B}|DAL\\DAL.csproj|solutionrelative:dal\\ef\\tables\\rsvp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A9685BA-BDE0-4A66-ADF5-C10C11AC866E}|BLL\\BLL.csproj|e:\\aiub\\9th sem\\adv .net\\lab\\event management\\bll\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A9685BA-BDE0-4A66-ADF5-C10C11AC866E}|BLL\\BLL.csproj|solutionrelative:bll\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A9685BA-BDE0-4A66-ADF5-C10C11AC866E}|BLL\\BLL.csproj|e:\\aiub\\9th sem\\adv .net\\lab\\event management\\bll\\services\\rsvpservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A9685BA-BDE0-4A66-ADF5-C10C11AC866E}|BLL\\BLL.csproj|solutionrelative:bll\\services\\rsvpservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A9685BA-BDE0-4A66-ADF5-C10C11AC866E}|BLL\\BLL.csproj|e:\\aiub\\9th sem\\adv .net\\lab\\event management\\bll\\services\\eventservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A9685BA-BDE0-4A66-ADF5-C10C11AC866E}|BLL\\BLL.csproj|solutionrelative:bll\\services\\eventservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A9685BA-BDE0-4A66-ADF5-C10C11AC866E}|BLL\\BLL.csproj|e:\\aiub\\9th sem\\adv .net\\lab\\event management\\bll\\dtos\\userrsvpdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A9685BA-BDE0-4A66-ADF5-C10C11AC866E}|BLL\\BLL.csproj|solutionrelative:bll\\dtos\\userrsvpdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A9685BA-BDE0-4A66-ADF5-C10C11AC866E}|BLL\\BLL.csproj|E:\\AIUB\\9th Sem\\Adv .Net\\Lab\\Event Management\\bll\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A9685BA-BDE0-4A66-ADF5-C10C11AC866E}|BLL\\BLL.csproj|solutionrelative:bll\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A9685BA-BDE0-4A66-ADF5-C10C11AC866E}|BLL\\BLL.csproj|E:\\AIUB\\9th Sem\\Adv .Net\\Lab\\Event Management\\bll\\dtos\\rsvpdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A9685BA-BDE0-4A66-ADF5-C10C11AC866E}|BLL\\BLL.csproj|solutionrelative:bll\\dtos\\rsvpdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A9685BA-BDE0-4A66-ADF5-C10C11AC866E}|BLL\\BLL.csproj|e:\\aiub\\9th sem\\adv .net\\lab\\event management\\bll\\dtos\\eventrsvpdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A9685BA-BDE0-4A66-ADF5-C10C11AC866E}|BLL\\BLL.csproj|solutionrelative:bll\\dtos\\eventrsvpdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A9685BA-BDE0-4A66-ADF5-C10C11AC866E}|BLL\\BLL.csproj|E:\\AIUB\\9th Sem\\Adv .Net\\Lab\\Event Management\\bll\\dtos\\eventdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A9685BA-BDE0-4A66-ADF5-C10C11AC866E}|BLL\\BLL.csproj|solutionrelative:bll\\dtos\\eventdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A9685BA-BDE0-4A66-ADF5-C10C11AC866E}|BLL\\BLL.csproj|E:\\AIUB\\9th Sem\\Adv .Net\\Lab\\Event Management\\bll\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A9685BA-BDE0-4A66-ADF5-C10C11AC866E}|BLL\\BLL.csproj|solutionrelative:bll\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "202501210715522_UpdateTables.cs",
+              "DocumentMoniker": "E:\\AIUB\\9th Sem\\Adv .Net\\Lab\\Event Management\\DAL\\Migrations\\202501210715522_UpdateTables.cs",
+              "RelativeDocumentMoniker": "DAL\\Migrations\\202501210715522_UpdateTables.cs",
+              "ToolTip": "E:\\AIUB\\9th Sem\\Adv .Net\\Lab\\Event Management\\DAL\\Migrations\\202501210715522_UpdateTables.cs",
+              "RelativeToolTip": "DAL\\Migrations\\202501210715522_UpdateTables.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T07:16:00.329Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Configuration.cs",
+              "DocumentMoniker": "E:\\AIUB\\9th Sem\\Adv .Net\\Lab\\Event Management\\DAL\\Migrations\\Configuration.cs",
+              "RelativeDocumentMoniker": "DAL\\Migrations\\Configuration.cs",
+              "ToolTip": "E:\\AIUB\\9th Sem\\Adv .Net\\Lab\\Event Management\\DAL\\Migrations\\Configuration.cs",
+              "RelativeToolTip": "DAL\\Migrations\\Configuration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T06:35:01.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EventRepo.cs",
+              "DocumentMoniker": "E:\\AIUB\\9th Sem\\Adv .Net\\Lab\\Event Management\\DAL\\Repos\\EventRepo.cs",
+              "RelativeDocumentMoniker": "DAL\\Repos\\EventRepo.cs",
+              "ToolTip": "E:\\AIUB\\9th Sem\\Adv .Net\\Lab\\Event Management\\DAL\\Repos\\EventRepo.cs",
+              "RelativeToolTip": "DAL\\Repos\\EventRepo.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAEcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T21:44:51.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Repo.cs",
+              "DocumentMoniker": "E:\\AIUB\\9th Sem\\Adv .Net\\Lab\\Event Management\\DAL\\Repos\\Repo.cs",
+              "RelativeDocumentMoniker": "DAL\\Repos\\Repo.cs",
+              "ToolTip": "E:\\AIUB\\9th Sem\\Adv .Net\\Lab\\Event Management\\DAL\\Repos\\Repo.cs",
+              "RelativeToolTip": "DAL\\Repos\\Repo.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T21:19:04.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RSVPRepo.cs",
+              "DocumentMoniker": "E:\\AIUB\\9th Sem\\Adv .Net\\Lab\\Event Management\\DAL\\Repos\\RSVPRepo.cs",
+              "RelativeDocumentMoniker": "DAL\\Repos\\RSVPRepo.cs",
+              "ToolTip": "E:\\AIUB\\9th Sem\\Adv .Net\\Lab\\Event Management\\DAL\\Repos\\RSVPRepo.cs",
+              "RelativeToolTip": "DAL\\Repos\\RSVPRepo.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAEcAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T21:50:00.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserRepo.cs",
+              "DocumentMoniker": "E:\\AIUB\\9th Sem\\Adv .Net\\Lab\\Event Management\\DAL\\Repos\\UserRepo.cs",
+              "RelativeDocumentMoniker": "DAL\\Repos\\UserRepo.cs",
+              "ToolTip": "E:\\AIUB\\9th Sem\\Adv .Net\\Lab\\Event Management\\DAL\\Repos\\UserRepo.cs",
+              "RelativeToolTip": "DAL\\Repos\\UserRepo.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAACkAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T21:23:38.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DataAccessFactory.cs",
+              "DocumentMoniker": "E:\\AIUB\\9th Sem\\Adv .Net\\Lab\\Event Management\\DAL\\DataAccessFactory.cs",
+              "RelativeDocumentMoniker": "DAL\\DataAccessFactory.cs",
+              "ToolTip": "E:\\AIUB\\9th Sem\\Adv .Net\\Lab\\Event Management\\DAL\\DataAccessFactory.cs",
+              "RelativeToolTip": "DAL\\DataAccessFactory.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T19:27:26.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EventController.cs",
+              "DocumentMoniker": "E:\\AIUB\\9th Sem\\Adv .Net\\Lab\\Event Management\\Event Management\\Controllers\\EventController.cs",
+              "RelativeDocumentMoniker": "Event Management\\Controllers\\EventController.cs",
+              "ToolTip": "E:\\AIUB\\9th Sem\\Adv .Net\\Lab\\Event Management\\Event Management\\Controllers\\EventController.cs",
+              "RelativeToolTip": "Event Management\\Controllers\\EventController.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAAAD0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T07:22:25.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RSVPController.cs",
+              "DocumentMoniker": "E:\\AIUB\\9th Sem\\Adv .Net\\Lab\\Event Management\\Event Management\\Controllers\\RSVPController.cs",
+              "RelativeDocumentMoniker": "Event Management\\Controllers\\RSVPController.cs",
+              "ToolTip": "E:\\AIUB\\9th Sem\\Adv .Net\\Lab\\Event Management\\Event Management\\Controllers\\RSVPController.cs",
+              "RelativeToolTip": "Event Management\\Controllers\\RSVPController.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAEYAAABsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T07:46:14.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "E:\\AIUB\\9th Sem\\Adv .Net\\Lab\\Event Management\\Event Management\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Event Management\\Controllers\\UserController.cs",
+              "ToolTip": "E:\\AIUB\\9th Sem\\Adv .Net\\Lab\\Event Management\\Event Management\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Event Management\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T07:44:47.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Web.config",
+              "DocumentMoniker": "E:\\AIUB\\9th Sem\\Adv .Net\\Lab\\Event Management\\Event Management\\Web.config",
+              "RelativeDocumentMoniker": "Event Management\\Web.config",
+              "ToolTip": "E:\\AIUB\\9th Sem\\Adv .Net\\Lab\\Event Management\\Event Management\\Web.config",
+              "RelativeToolTip": "Event Management\\Web.config",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAIwEQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-01-20T20:37:18.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "202501210636152_CreateTables.cs",
+              "DocumentMoniker": "E:\\AIUB\\9th Sem\\Adv .Net\\Lab\\Event Management\\DAL\\Migrations\\202501210636152_CreateTables.cs",
+              "RelativeDocumentMoniker": "DAL\\Migrations\\202501210636152_CreateTables.cs",
+              "ToolTip": "E:\\AIUB\\9th Sem\\Adv .Net\\Lab\\Event Management\\DAL\\Migrations\\202501210636152_CreateTables.cs",
+              "RelativeToolTip": "DAL\\Migrations\\202501210636152_CreateTables.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T06:36:23.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IRSVPFeatures.cs",
+              "DocumentMoniker": "E:\\AIUB\\9th Sem\\Adv .Net\\Lab\\Event Management\\DAL\\Interfaces\\IRSVPFeatures.cs",
+              "RelativeDocumentMoniker": "DAL\\Interfaces\\IRSVPFeatures.cs",
+              "ToolTip": "E:\\AIUB\\9th Sem\\Adv .Net\\Lab\\Event Management\\DAL\\Interfaces\\IRSVPFeatures.cs",
+              "RelativeToolTip": "DAL\\Interfaces\\IRSVPFeatures.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T12:44:03.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IRepo.cs",
+              "DocumentMoniker": "E:\\AIUB\\9th Sem\\Adv .Net\\Lab\\Event Management\\DAL\\Interfaces\\IRepo.cs",
+              "RelativeDocumentMoniker": "DAL\\Interfaces\\IRepo.cs",
+              "ToolTip": "E:\\AIUB\\9th Sem\\Adv .Net\\Lab\\Event Management\\DAL\\Interfaces\\IRepo.cs",
+              "RelativeToolTip": "DAL\\Interfaces\\IRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T21:12:25.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IEventFeatures.cs",
+              "DocumentMoniker": "E:\\AIUB\\9th Sem\\Adv .Net\\Lab\\Event Management\\DAL\\Interfaces\\IEventFeatures.cs",
+              "RelativeDocumentMoniker": "DAL\\Interfaces\\IEventFeatures.cs",
+              "ToolTip": "E:\\AIUB\\9th Sem\\Adv .Net\\Lab\\Event Management\\DAL\\Interfaces\\IEventFeatures.cs",
+              "RelativeToolTip": "DAL\\Interfaces\\IEventFeatures.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T13:44:01.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "EventMGTContext.cs",
+              "DocumentMoniker": "E:\\AIUB\\9th Sem\\Adv .Net\\Lab\\Event Management\\DAL\\EF\\EventMGTContext.cs",
+              "RelativeDocumentMoniker": "DAL\\EF\\EventMGTContext.cs",
+              "ToolTip": "E:\\AIUB\\9th Sem\\Adv .Net\\Lab\\Event Management\\DAL\\EF\\EventMGTContext.cs",
+              "RelativeToolTip": "DAL\\EF\\EventMGTContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T20:31:20.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Event.cs",
+              "DocumentMoniker": "E:\\AIUB\\9th Sem\\Adv .Net\\Lab\\Event Management\\DAL\\EF\\Tables\\Event.cs",
+              "RelativeDocumentMoniker": "DAL\\EF\\Tables\\Event.cs",
+              "ToolTip": "E:\\AIUB\\9th Sem\\Adv .Net\\Lab\\Event Management\\DAL\\EF\\Tables\\Event.cs",
+              "RelativeToolTip": "DAL\\EF\\Tables\\Event.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T20:28:47.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "User.cs",
+              "DocumentMoniker": "E:\\AIUB\\9th Sem\\Adv .Net\\Lab\\Event Management\\DAL\\EF\\Tables\\User.cs",
+              "RelativeDocumentMoniker": "DAL\\EF\\Tables\\User.cs",
+              "ToolTip": "E:\\AIUB\\9th Sem\\Adv .Net\\Lab\\Event Management\\DAL\\EF\\Tables\\User.cs",
+              "RelativeToolTip": "DAL\\EF\\Tables\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T20:27:54.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "RSVP.cs",
+              "DocumentMoniker": "E:\\AIUB\\9th Sem\\Adv .Net\\Lab\\Event Management\\DAL\\EF\\Tables\\RSVP.cs",
+              "RelativeDocumentMoniker": "DAL\\EF\\Tables\\RSVP.cs",
+              "ToolTip": "E:\\AIUB\\9th Sem\\Adv .Net\\Lab\\Event Management\\DAL\\EF\\Tables\\RSVP.cs",
+              "RelativeToolTip": "DAL\\EF\\Tables\\RSVP.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAADwvxUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T20:29:24.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "E:\\AIUB\\9th Sem\\Adv .Net\\Lab\\Event Management\\BLL\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\UserService.cs",
+              "ToolTip": "E:\\AIUB\\9th Sem\\Adv .Net\\Lab\\Event Management\\BLL\\Services\\UserService.cs",
+              "RelativeToolTip": "BLL\\Services\\UserService.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAABQAAABoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T07:45:30.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "RSVPService.cs",
+              "DocumentMoniker": "E:\\AIUB\\9th Sem\\Adv .Net\\Lab\\Event Management\\BLL\\Services\\RSVPService.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\RSVPService.cs",
+              "ToolTip": "E:\\AIUB\\9th Sem\\Adv .Net\\Lab\\Event Management\\BLL\\Services\\RSVPService.cs",
+              "RelativeToolTip": "BLL\\Services\\RSVPService.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAAAEoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T07:45:43.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "EventService.cs",
+              "DocumentMoniker": "E:\\AIUB\\9th Sem\\Adv .Net\\Lab\\Event Management\\BLL\\Services\\EventService.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\EventService.cs",
+              "ToolTip": "E:\\AIUB\\9th Sem\\Adv .Net\\Lab\\Event Management\\BLL\\Services\\EventService.cs",
+              "RelativeToolTip": "BLL\\Services\\EventService.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAYwFEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T22:28:48.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "UserRSVPDTO.cs",
+              "DocumentMoniker": "E:\\AIUB\\9th Sem\\Adv .Net\\Lab\\Event Management\\BLL\\DTOs\\UserRSVPDTO.cs",
+              "RelativeDocumentMoniker": "BLL\\DTOs\\UserRSVPDTO.cs",
+              "ToolTip": "E:\\AIUB\\9th Sem\\Adv .Net\\Lab\\Event Management\\BLL\\DTOs\\UserRSVPDTO.cs",
+              "RelativeToolTip": "BLL\\DTOs\\UserRSVPDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T07:17:15.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "UserDTO.cs",
+              "DocumentMoniker": "E:\\AIUB\\9th Sem\\Adv .Net\\Lab\\Event Management\\BLL\\DTOs\\UserDTO.cs",
+              "RelativeDocumentMoniker": "BLL\\DTOs\\UserDTO.cs",
+              "ToolTip": "E:\\AIUB\\9th Sem\\Adv .Net\\Lab\\Event Management\\BLL\\DTOs\\UserDTO.cs",
+              "RelativeToolTip": "BLL\\DTOs\\UserDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T22:19:57.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "RSVPDTO.cs",
+              "DocumentMoniker": "E:\\AIUB\\9th Sem\\Adv .Net\\Lab\\Event Management\\BLL\\DTOs\\RSVPDTO.cs",
+              "RelativeDocumentMoniker": "BLL\\DTOs\\RSVPDTO.cs",
+              "ToolTip": "E:\\AIUB\\9th Sem\\Adv .Net\\Lab\\Event Management\\BLL\\DTOs\\RSVPDTO.cs",
+              "RelativeToolTip": "BLL\\DTOs\\RSVPDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T22:20:58.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "EventRSVPDTO.cs",
+              "DocumentMoniker": "E:\\AIUB\\9th Sem\\Adv .Net\\Lab\\Event Management\\BLL\\DTOs\\EventRSVPDTO.cs",
+              "RelativeDocumentMoniker": "BLL\\DTOs\\EventRSVPDTO.cs",
+              "ToolTip": "E:\\AIUB\\9th Sem\\Adv .Net\\Lab\\Event Management\\BLL\\DTOs\\EventRSVPDTO.cs",
+              "RelativeToolTip": "BLL\\DTOs\\EventRSVPDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T07:11:01.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "EventDTO.cs",
+              "DocumentMoniker": "E:\\AIUB\\9th Sem\\Adv .Net\\Lab\\Event Management\\BLL\\DTOs\\EventDTO.cs",
+              "RelativeDocumentMoniker": "BLL\\DTOs\\EventDTO.cs",
+              "ToolTip": "E:\\AIUB\\9th Sem\\Adv .Net\\Lab\\Event Management\\BLL\\DTOs\\EventDTO.cs",
+              "RelativeToolTip": "BLL\\DTOs\\EventDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T22:20:22.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "E:\\AIUB\\9th Sem\\Adv .Net\\Lab\\Event Management\\BLL\\Class1.cs",
+              "RelativeDocumentMoniker": "BLL\\Class1.cs",
+              "ToolTip": "E:\\AIUB\\9th Sem\\Adv .Net\\Lab\\Event Management\\BLL\\Class1.cs",
+              "RelativeToolTip": "BLL\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T19:27:08.64Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
